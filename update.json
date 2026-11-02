@@ -1,14 +1,10 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "channel": "stable",
-  "releasedAt": "2026-11-02T00:00:00.000Z",
+  "releasedAt": "2026-11-02T18:10:00.000Z",
   "notes": [
-    "Employee sign-in with a daily shift target (1 completed house = 1 point).",
-    "Customer credit tiers: tier 1 = 60 minutes, tier 2 = 90 minutes.",
-    "Start OTP starts the visit clock; work-done OTP closes the visit.",
-    "Live before/after proof for every service, no gallery uploads.",
-    "CCTV, chimney, RO, geyser and meter checklists.",
-    "Team locator for managers with last known position."
+    "QA: verifies the in-app update prompt on an installed build.",
+    "Download opens the public APK so technicians can update in place."
   ],
   "apkUrl": "https://github.com/Sidharth7082/shabapp-releases/releases/download/v0.2.0/shabh-service-debug.apk",
   "webUrl": "https://github.com/Sidharth7082/shabapp-releases/releases/tag/v0.2.0"
